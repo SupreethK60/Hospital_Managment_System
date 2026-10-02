@@ -1,0 +1,2 @@
+# Hospital_Managment_System
+SE_MINI_PROJECT_ TEAM
